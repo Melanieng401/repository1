@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:sbol="http://sbols.org/v2#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#dateTime/" xmlns:om="http://www.ontology-of-units-of-measure.org/resource/om-2/" xmlns:synbiohub="http://synbiohub.org#" xmlns:sbh="http://wiki.synbiohub.org/wiki/Terms/synbiohub#" xmlns:sybio="http://www.sybio.ncl.ac.uk#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ncbi="http://www.ncbi.nlm.nih.gov#" xmlns:igem="http://wiki.synbiohub.org/wiki/Terms/igem#" xmlns:genbank="http://www.ncbi.nlm.nih.gov/genbank#" xmlns:gbconv="http://sbols.org/genBankConversion#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:ns0="https://sbolcanvas.org/">
+  <sbol:ModuleDefinition rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit"/>
+    <sbol:displayId>M4_toggle_swtich_genetic_circuit</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/aTc_182/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/aTc_182"/>
+        <sbol:displayId>aTc_182</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/aTc/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTac_179/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTac_179"/>
+        <sbol:displayId>pTac_179</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/LacI_175/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/LacI_175"/>
+        <sbol:displayId>LacI_175</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/IPTG_134/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/IPTG_134"/>
+        <sbol:displayId>IPTG_134</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/IPTG/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/TetR_123/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/TetR_123"/>
+        <sbol:displayId>TetR_123</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120"/>
+        <sbol:displayId>id80_120</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+        <sbol:mapsTo>
+          <sbol:MapsTo rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_pTet_4/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_pTet_4"/>
+            <sbol:displayId>mapsTo_pTet_4</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:refinement rdf:resource="http://sbols.org/v2#useRemote"/>
+            <sbol:remote rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4/1"/>
+            <sbol:local rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTet_178/1"/>
+          </sbol:MapsTo>
+        </sbol:mapsTo>
+        <sbol:mapsTo>
+          <sbol:MapsTo rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_pTac_5/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_pTac_5"/>
+            <sbol:displayId>mapsTo_pTac_5</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:refinement rdf:resource="http://sbols.org/v2#useRemote"/>
+            <sbol:remote rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5/1"/>
+            <sbol:local rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTac_179/1"/>
+          </sbol:MapsTo>
+        </sbol:mapsTo>
+        <sbol:mapsTo>
+          <sbol:MapsTo rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_TetR_7/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_TetR_7"/>
+            <sbol:displayId>mapsTo_TetR_7</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:refinement rdf:resource="http://sbols.org/v2#useRemote"/>
+            <sbol:remote rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7/1"/>
+            <sbol:local rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/TetR_123/1"/>
+          </sbol:MapsTo>
+        </sbol:mapsTo>
+        <sbol:mapsTo>
+          <sbol:MapsTo rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_LacI_2/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/id80_120/mapsTo_LacI_2"/>
+            <sbol:displayId>mapsTo_LacI_2</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:refinement rdf:resource="http://sbols.org/v2#useRemote"/>
+            <sbol:remote rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2/1"/>
+            <sbol:local rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/LacI_175/1"/>
+          </sbol:MapsTo>
+        </sbol:mapsTo>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:functionalComponent>
+      <sbol:FunctionalComponent rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTet_178/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTet_178"/>
+        <sbol:displayId>pTet_178</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+        <sbol:direction rdf:resource="http://sbols.org/v2#inout"/>
+      </sbol:FunctionalComponent>
+    </sbol:functionalComponent>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101"/>
+        <sbol:displayId>Interaction101</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101/Interaction101_0/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101/Interaction101_0"/>
+            <sbol:displayId>Interaction101_0</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/aTc_182/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101/Interaction101_1/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction101/Interaction101_1"/>
+            <sbol:displayId>Interaction101_1</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/TetR_123/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44"/>
+        <sbol:displayId>Interaction44</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44/Interaction44_0/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44/Interaction44_0"/>
+            <sbol:displayId>Interaction44_0</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/IPTG_134/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44/Interaction44_1/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction44/Interaction44_1"/>
+            <sbol:displayId>Interaction44_1</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/LacI_175/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37"/>
+        <sbol:displayId>Interaction37</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37/Interaction37_1/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37/Interaction37_1"/>
+            <sbol:displayId>Interaction37_1</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTac_179/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37/Interaction37_0/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction37/Interaction37_0"/>
+            <sbol:displayId>Interaction37_0</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/LacI_175/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+    <sbol:interaction>
+      <sbol:Interaction rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61"/>
+        <sbol:displayId>Interaction61</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:type rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000169"/>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61/Interaction61_0/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61/Interaction61_0"/>
+            <sbol:displayId>Interaction61_0</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/TetR_123/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+        <sbol:participation>
+          <sbol:Participation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61/Interaction61_1/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/Interaction61/Interaction61_1"/>
+            <sbol:displayId>Interaction61_1</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000642"/>
+            <sbol:participant rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/pTet_178/1"/>
+          </sbol:Participation>
+        </sbol:participation>
+      </sbol:Interaction>
+    </sbol:interaction>
+  </sbol:ModuleDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80"/>
+    <sbol:displayId>id80</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000110"/>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/YFP_reporter_8/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/YFP_reporter_8"/>
+        <sbol:displayId>YFP_reporter_8</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_9/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_9"/>
+        <sbol:displayId>ECK120019600_9</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_1/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_1"/>
+        <sbol:displayId>ECK120019600_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_6/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_6"/>
+        <sbol:displayId>A1_6</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_3/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_3"/>
+        <sbol:displayId>A1_3</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4"/>
+        <sbol:displayId>pTet_4</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5"/>
+        <sbol:displayId>pTac_5</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7"/>
+        <sbol:displayId>TetR_7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2"/>
+        <sbol:displayId>LacI_2</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#public"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation0/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation0"/>
+        <sbol:displayId>id80Annotation0</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation0/location0/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation0/location0"/>
+            <sbol:displayId>location0</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1</sbol:start>
+            <sbol:end>90</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_1/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation1/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation1"/>
+        <sbol:displayId>id80Annotation1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation1/location1/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation1/location1"/>
+            <sbol:displayId>location1</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>91</sbol:start>
+            <sbol:end>1176</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation2/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation2"/>
+        <sbol:displayId>id80Annotation2</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation2/location2/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation2/location2"/>
+            <sbol:displayId>location2</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1177</sbol:start>
+            <sbol:end>1210</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_3/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation3/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation3"/>
+        <sbol:displayId>id80Annotation3</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation3/location3/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation3/location3"/>
+            <sbol:displayId>location3</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1211</sbol:start>
+            <sbol:end>1284</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation4/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation4"/>
+        <sbol:displayId>id80Annotation4</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation4/location4/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation4/location4"/>
+            <sbol:displayId>location4</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1285</sbol:start>
+            <sbol:end>1355</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation5/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation5"/>
+        <sbol:displayId>id80Annotation5</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation5/location5/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation5/location5"/>
+            <sbol:displayId>location5</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1356</sbol:start>
+            <sbol:end>1389</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_6/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation6/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation6"/>
+        <sbol:displayId>id80Annotation6</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation6/location6/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation6/location6"/>
+            <sbol:displayId>location6</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>1390</sbol:start>
+            <sbol:end>2013</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation8/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation8"/>
+        <sbol:displayId>id80Annotation8</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation8/location8/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation8/location8"/>
+            <sbol:displayId>location8</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:start>2014</sbol:start>
+            <sbol:end>2103</sbol:end>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:Range>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_9/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation7/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation7"/>
+        <sbol:displayId>id80Annotation7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:location>
+          <sbol:GenericLocation rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation7/location7/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Annotation7/location7"/>
+            <sbol:displayId>location7</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+            <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline"/>
+          </sbol:GenericLocation>
+        </sbol:location>
+        <sbol:component rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/YFP_reporter_8/1"/>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint4/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint4"/>
+        <sbol:displayId>id80Constraint4</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint5/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint5"/>
+        <sbol:displayId>id80Constraint5</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTac_5/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_6/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint6/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint6"/>
+        <sbol:displayId>id80Constraint6</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_6/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint7/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint7"/>
+        <sbol:displayId>id80Constraint7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/TetR_7/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/YFP_reporter_8/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint1/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint1"/>
+        <sbol:displayId>id80Constraint1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_1/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint2/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint2"/>
+        <sbol:displayId>id80Constraint2</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/LacI_2/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_3/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint3/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint3"/>
+        <sbol:displayId>id80Constraint3</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/A1_3/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/pTet_4/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+    <sbol:sequenceConstraint>
+      <sbol:SequenceConstraint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint8/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/id80Constraint8"/>
+        <sbol:displayId>id80Constraint8</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+        <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+        <sbol:restriction rdf:resource="http://sbols.org/v2#precedes"/>
+        <sbol:subject rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/YFP_reporter_8/1"/>
+        <sbol:object rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/ECK120019600_9/1"/>
+      </sbol:SequenceConstraint>
+    </sbol:sequenceConstraint>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/IPTG/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/IPTG"/>
+    <sbol:displayId>IPTG</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/IPTG/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#Complex"/>
+    <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/aTc/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/aTc"/>
+    <sbol:displayId>aTc</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/aTc/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#Complex"/>
+    <sbol:role rdf:resource="http://identifiers.org/biomodels.sbo/SBO:0000020"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ"/>
+    <sbol:displayId>RiboJ</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000374"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar"/>
+    <sbol:displayId>Ribozyme_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator"/>
+    <sbol:displayId>L3S2P21_terminator</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar"/>
+    <sbol:displayId>RBS_upstream_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs"/>
+    <sbol:displayId>BBa_B0064_rbs</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar"/>
+    <sbol:displayId>RBS_CDS_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac"/>
+    <sbol:displayId>pTac</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>pTac</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet"/>
+    <sbol:displayId>pTet</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>pTet</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1"/>
+    <sbol:displayId>A1</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>A1</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI"/>
+    <sbol:displayId>LacI</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>LacI</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR"/>
+    <sbol:displayId>TetR</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>TetR</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP"/>
+    <sbol:displayId>YFP</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>YFP</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600"/>
+    <sbol:displayId>ECK120019600</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>ECK120019600</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter"/>
+    <sbol:displayId>YFP_reporter</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804"/>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/BBa_B0064_rbs/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/BBa_B0064_rbs"/>
+        <sbol:displayId>BBa_B0064_rbs</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/L3S2P21_terminator/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/L3S2P21_terminator"/>
+        <sbol:displayId>L3S2P21_terminator</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RBS_CDS_scar/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RBS_CDS_scar"/>
+        <sbol:displayId>RBS_CDS_scar</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RBS_upstream_scar/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RBS_upstream_scar"/>
+        <sbol:displayId>RBS_upstream_scar</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RiboJ/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/RiboJ"/>
+        <sbol:displayId>RiboJ</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/Ribozyme_scar/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/Ribozyme_scar"/>
+        <sbol:displayId>Ribozyme_scar</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/YFP/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/YFP"/>
+        <sbol:displayId>YFP</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+        <sbol:definition rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1"/>
+        <sbol:access rdf:resource="http://sbols.org/v2#private"/>
+      </sbol:Component>
+    </sbol:component>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs"/>
+    <sbol:displayId>BBa_B0064_rbs</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator"/>
+    <sbol:displayId>L3S2P21_terminator</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar"/>
+    <sbol:displayId>RBS_CDS_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar"/>
+    <sbol:displayId>RBS_upstream_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ"/>
+    <sbol:displayId>RiboJ</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000374"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar"/>
+    <sbol:displayId>Ribozyme_scar</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001953"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP"/>
+    <sbol:displayId>YFP</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>YFP</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1"/>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion"/>
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316"/>
+    <sbol:sequence rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1"/>
+  </sbol:ComponentDefinition>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Attachment rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6"/>
+    <sbol:displayId>attachment_00009WRPR2gZAT2e0UjRL6</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Eco1C1G1T1.UCF.json</dcterms:title>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+    <sbol:source rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1/download"/>
+    <sbol:format rdf:resource="http://purl.org/NET/mediatypes/text/plain"/>
+    <sbol:size>3253079</sbol:size>
+    <sbol:hash>d1e33a0dc15d437c552825932515d7fc981d01c3</sbol:hash>
+  </sbol:Attachment>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence"/>
+    <sbol:displayId>RiboJ_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1"/>
+    <sbol:elements>AGCTGTCACCGGATGTGCTTTCCGGTCTGATGAGTCCGTGAGGACGAAACAGCCTCTACAAATAATTTTGTTTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence"/>
+    <sbol:displayId>Ribozyme_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1"/>
+    <sbol:elements>CTGA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence"/>
+    <sbol:displayId>L3S2P21_terminator_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1"/>
+    <sbol:elements>CTCGGTACCAAATTCCAGAAAAGAGGCCTCCCGAAAGGGGGGCCTTTTTTCGTTTTGGTCC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence"/>
+    <sbol:displayId>RBS_upstream_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1"/>
+    <sbol:elements>TACTAGAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence"/>
+    <sbol:displayId>BBa_B0064_rbs_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1"/>
+    <sbol:elements>AAAGAGGGGAAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence"/>
+    <sbol:displayId>RBS_CDS_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1"/>
+    <sbol:elements>TACTAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac_sequence"/>
+    <sbol:displayId>pTac_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac_sequence/1"/>
+    <sbol:elements>AACGATCGTTGGCTGTGTTGACAATTAATCATCGGCTCGTATAATGTGTGGAATTGTGAGCGCTCACAATT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet_sequence"/>
+    <sbol:displayId>pTet_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet_sequence/1"/>
+    <sbol:elements>TACTCCACCGTTGGCTTTTTTCCCTATCAGTGATAGAGATTGACATCCCTATCAGTGATAGAGATAATGAGCAC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1_sequence"/>
+    <sbol:displayId>A1_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>A1_sequence</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1_sequence/1"/>
+    <sbol:elements>AATGTTCCCTAATAATCAGCAAAGAGGTTACTAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI_sequence"/>
+    <sbol:displayId>LacI_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI_sequence/1"/>
+    <sbol:elements>atgaaaccagtaacgttatacgatgtcgcagagtatgccggtgtctcttatcagaccgtttcccgcgtggtgaaccaggccagccacgtttctgcgaaaacgcgggaaaaagtggaagcggcgatggcggagctgaattacattcccaaccgcgtggcacaacaactggcgggcaaacagtcgttgctgattggcgttgccacctccagtctggccctgcacgcgccgtcgcaaattgtcgcggcgattaaatctcgcgccgatcaactgggtgccagcgtggtggtgtcgatggtagaacgaagcggcgtcgaagcctgtaaagcggcggtgcacaatcttctcgcgcaacgcgtcagtgggctgatcattaactatccgctggatgaccaggatgccattgctgtggaagctgcctgcactaatgttccggcgttatttcttgatgtctctgaccagacacccatcaacagtattattttctcccatgaggacggtacgcgactgggcgtggagcatctggtcgcattgggtcaccagcaaatcgcgctgttagcgggcccattaagttctgtctcggcgcgtctgcgtctggctggctggcataaatatctcactcgcaatcaaattcagccgatagcggaacgggaaggcgactggagtgccatgtccggttttcaacaaaccatgcaaatgctgaatgagggcatcgttcccactgcgatgctggttgccaacgatcagatggcgctgggcgcaatgcgcgccattaccgagtccgggctgcgcgttggtgcggatatctcggtagtgggatacgacgataccgaagatagctcatgttatatcccgccgttaaccaccatcaaacaggattttcgcctgctggggcaaaccagcgtggaccgcttgctgcaactctctcagggccaggcggtgaagggcaatcagctgttgccagtctcactggtgaaaagaaaaaccaccctggcgcccaatacgcaaaccgcctctccccgcgcgttggccgattcattaatgcagctggcacgacaggtttcccgactggaaagcgggcagtgataa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR_sequence"/>
+    <sbol:displayId>TetR_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR_sequence/1"/>
+    <sbol:elements>atgtccagattagataaaagtaaagtgattaacagcgcattagagctgcttaatgaggtcggaatcgaaggtttaacaacccgtaaactcgcccagaagctaggtgtagagcagcctacattgtattggcatgtaaaaaataagcgggctttgctcgacgccttagccattgagatgttagataggcaccatactcacttttgccctttagaaggggaaagctggcaagattttttacgtaataacgctaaaagttttagatgtgctttactaagtcatcgcgatggagcaaaagtacatttaggtacacggcctacagaaaaacagtatgaaactctcgaaaatcaattagcctttttatgccaacaaggtttttcactagagaatgcattatatgcactcagcgctgtggggcattttactttaggttgcgtattggaagatcaagagcatcaagtcgctaaagaagaaagggaaacacctactactgatagtatgccgccattattacgacaagctatcgaattatttgatcaccaaggtgcagagccagccttcttattcggccttgaattgatcatatgcggattagaaaaacaacttaaatgtgaaagtgggtcctaa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence"/>
+    <sbol:displayId>YFP_protein_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1"/>
+    <sbol:elements>ATGGTGAGCAAGGGCGAGGAGCTGTTCACCGGGGTGGTGCCCATCCTGGTCGAGCTGGACGGCGACGTAAACGGCCACAAGTTCAGCGTGTCCGGCGAGGGCGAGGGCGATGCCACCTACGGCAAGCTGACCCTGAAGTTCATCTGCACCACAGGCAAGCTGCCCGTGCCCTGGCCCACCCTCGTGACCACCTTCGGCTACGGCCTGCAATGCTTCGCCCGCTACCCCGACCACATGAAGCTGCACGACTTCTTCAAGTCCGCCATGCCCGAAGGCTACGTCCAGGAGCGCACCATCTTCTTCAAGGACGACGGCAACTACAAGACCCGCGCCGAGGTGAAGTTCGAGGGCGACACCCTGGTGAACCGCATCGAGCTGAAGGGCATCGACTTCAAGGAGGACGGCAACATCCTGGGGCACAAGCTGGAGTACAACTACAACAGCCACAACGTCTATATCATGGCCGACAAGCAGAAGAACGGCATCAAGGTGAACTTCAAGATCCGCCACAACATCGAGGACGGCAGCGTGCAGCTCGCCGACCACTACCAGCAGAACACCCCAATCGGCGACGGCCCCGTGCTGCTGCCCGACAACCACTACCTTAGCTACCAGTCCGCCCTGAGCAAAGACCCCAACGAGAAGCGCGATCACATGGTCCTGCTGGAGTTCGTGACCGCCGCCGGGATCACTCTCGGCATGGACGAGCTGTACAAGTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600_sequence"/>
+    <sbol:displayId>ECK120019600_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <dcterms:title>ECK120019600_sequence</dcterms:title>
+    <dcterms:created>2018-05-09T19:41:51.056Z</dcterms:created>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600_sequence/1"/>
+    <sbol:elements>TTCAGCCAAAAAACTTAAGACCGCCGGTCTTGTCCACTACCTTGCAGTAATGCGGTGGACAGGATCGGCGGTTTTCTTTTCTCTTCTCAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence"/>
+    <sbol:displayId>BBa_B0064_rbs_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs_sequence/1"/>
+    <sbol:elements>AAAGAGGGGAAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence"/>
+    <sbol:displayId>L3S2P21_terminator_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator_sequence/1"/>
+    <sbol:elements>CTCGGTACCAAATTCCAGAAAAGAGGCCTCCCGAAAGGGGGGCCTTTTTTCGTTTTGGTCC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence"/>
+    <sbol:displayId>RBS_CDS_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar_sequence/1"/>
+    <sbol:elements>TACTAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence"/>
+    <sbol:displayId>RBS_upstream_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar_sequence/1"/>
+    <sbol:elements>TACTAGAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence"/>
+    <sbol:displayId>RiboJ_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ_sequence/1"/>
+    <sbol:elements>AGCTGTCACCGGATGTGCTTTCCGGTCTGATGAGTCCGTGAGGACGAAACAGCCTCTACAAATAATTTTGTTTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence"/>
+    <sbol:displayId>Ribozyme_scar_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar_sequence/1"/>
+    <sbol:elements>CTGA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence"/>
+    <sbol:displayId>YFP_protein_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_protein_sequence/1"/>
+    <sbol:elements>ATGGTGAGCAAGGGCGAGGAGCTGTTCACCGGGGTGGTGCCCATCCTGGTCGAGCTGGACGGCGACGTAAACGGCCACAAGTTCAGCGTGTCCGGCGAGGGCGAGGGCGATGCCACCTACGGCAAGCTGACCCTGAAGTTCATCTGCACCACAGGCAAGCTGCCCGTGCCCTGGCCCACCCTCGTGACCACCTTCGGCTACGGCCTGCAATGCTTCGCCCGCTACCCCGACCACATGAAGCTGCACGACTTCTTCAAGTCCGCCATGCCCGAAGGCTACGTCCAGGAGCGCACCATCTTCTTCAAGGACGACGGCAACTACAAGACCCGCGCCGAGGTGAAGTTCGAGGGCGACACCCTGGTGAACCGCATCGAGCTGAAGGGCATCGACTTCAAGGAGGACGGCAACATCCTGGGGCACAAGCTGGAGTACAACTACAACAGCCACAACGTCTATATCATGGCCGACAAGCAGAAGAACGGCATCAAGGTGAACTTCAAGATCCGCCACAACATCGAGGACGGCAGCGTGCAGCTCGCCGACCACTACCAGCAGAACACCCCAATCGGCGACGGCCCCGTGCTGCTGCCCGACAACCACTACCTTAGCTACCAGTCCGCCCTGAGCAAAGACCCCAACGAGAAGCGCGATCACATGGTCCTGCTGGAGTTCGTGACCGCCGCCGGGATCACTCTCGGCATGGACGAGCTGTACAAGTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html"/>
+  </sbol:Sequence>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Activity rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity"/>
+    <sbol:displayId>CelloUCF2sbol_Activity</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL conversion</dcterms:title>
+    <dcterms:description>Conversion of the Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-09T19:41:51.098Z</prov:endedAtTime>
+    <prov:qualifiedUsage>
+      <prov:Usage rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/UCF_file"/>
+        <sbol:displayId>UCF_file</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:entity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/attachment_00009WRPR2gZAT2e0UjRL6/1"/>
+      </prov:Usage>
+    </prov:qualifiedUsage>
+    <prov:qualifiedAssociation>
+      <prov:Association rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/association"/>
+        <sbol:displayId>association</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+        <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2sbol_Activity/1"/>
+        <prov:agent rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+      </prov:Association>
+    </prov:qualifiedAssociation>
+  </prov:Activity>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <prov:Agent rdf:about="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL"/>
+    <sbol:displayId>CelloUCF2SBOL</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <dcterms:title>Cello UCF to SBOL</dcterms:title>
+    <dcterms:description>A script to convert Cello UCF parts and metadata to SBOL 2 documents.</dcterms:description>
+    <sbh:ownedBy rdf:resource="https://synbiohub.programmingbiology.org/user/myers"/>
+    <dc:creator>Chris J. Myers</dc:creator>
+    <dc:creator>Prashant Vaidyanathan</dc:creator>
+    <sbh:topLevel rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/CelloUCF2SBOL/1"/>
+    <dc:source rdf:resource="https://github.com/MyersResearchGroup/UCF2SBOL"/>
+  </prov:Agent>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout"/>
+    <sbol:displayId>M4_toggle_swtich_genetic_circuit_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:edgeGlyph>
+      <ns0:EdgeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_183/1">
+        <ns0:displayId>Interaction101</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:targetPoint>
+          <ns0:TargetPoint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_183_TargetPoint/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>275.0</ns0:x>
+            <ns0:y>110.0</ns0:y>
+          </ns0:TargetPoint>
+        </ns0:targetPoint>
+        <ns0:point>
+          <ns0:Point rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_183_Point/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>330.0</ns0:x>
+            <ns0:y>215.0</ns0:y>
+          </ns0:Point>
+        </ns0:point>
+      </ns0:EdgeGlyph>
+    </ns0:edgeGlyph>
+    <ns0:edgeGlyph>
+      <ns0:EdgeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_135/1">
+        <ns0:displayId>Interaction44</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:targetPoint>
+          <ns0:TargetPoint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_135_TargetPoint/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>105.0</ns0:x>
+            <ns0:y>-105.0</ns0:y>
+          </ns0:TargetPoint>
+        </ns0:targetPoint>
+      </ns0:EdgeGlyph>
+    </ns0:edgeGlyph>
+    <ns0:edgeGlyph>
+      <ns0:EdgeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_136/1">
+        <ns0:displayId>Interaction61</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:targetPoint>
+          <ns0:TargetPoint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_136_TargetPoint/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>325.0</ns0:x>
+            <ns0:y>-120.0</ns0:y>
+          </ns0:TargetPoint>
+        </ns0:targetPoint>
+        <ns0:point>
+          <ns0:Point rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_136_Point/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>325.0</ns0:x>
+            <ns0:x>175.0</ns0:x>
+            <ns0:y>120.0</ns0:y>
+          </ns0:Point>
+        </ns0:point>
+      </ns0:EdgeGlyph>
+    </ns0:edgeGlyph>
+    <ns0:edgeGlyph>
+      <ns0:EdgeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_132/1">
+        <ns0:displayId>Interaction37</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:targetPoint>
+          <ns0:TargetPoint rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_132_TargetPoint/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>75.0</ns0:x>
+            <ns0:y>-120.0</ns0:y>
+          </ns0:TargetPoint>
+        </ns0:targetPoint>
+        <ns0:point>
+          <ns0:Point rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_EdgeGlyph_132_Point/1">
+            <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+            <ns0:x>225.0</ns0:x>
+            <ns0:x>75.0</ns0:x>
+            <ns0:y>-90.0</ns0:y>
+          </ns0:Point>
+        </ns0:point>
+      </ns0:EdgeGlyph>
+    </ns0:edgeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_NodeGlyph_120/1">
+        <ns0:displayId>id80_120</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>450.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>-40.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_NodeGlyph_134/1">
+        <ns0:displayId>IPTG_134</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:height>50.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>130.0</ns0:x>
+        <ns0:y>-270.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout_NodeGlyph_182/1">
+        <ns0:displayId>aTc_182</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+        <ns0:height>50.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>250.0</ns0:x>
+        <ns0:y>190.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/M4_toggle_swtich_genetic_circuit_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <ns0:id80_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout"/>
+    <sbol:displayId>id80_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:LacI_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout/1"/>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_179/1">
+        <ns0:displayId>pTac_5</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>200.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_177/1">
+        <ns0:displayId>A1_3</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>100.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_178/1">
+        <ns0:displayId>pTet_4</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>150.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_127/1">
+        <ns0:displayId>A1_6</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>250.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_175/1">
+        <ns0:displayId>LacI_2</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>50.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_176/1">
+        <ns0:displayId>ECK120019600_1</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_129/1">
+        <ns0:displayId>ECK120019600_9</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>400.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_151/1">
+        <ns0:displayId>YFP_reporter_8</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>350.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_123/1">
+        <ns0:displayId>TetR_7</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>300.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_120/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>450.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>-40.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout_NodeGlyph_121/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+        <ns0:height>1.0</ns0:height>
+        <ns0:width>450.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>50.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/id80_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <ns0:pTet_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout/1"/>
+    <ns0:YFP_reporter_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+    <ns0:A1_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout/1"/>
+    <ns0:ECK120019600_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout/1"/>
+    <ns0:TetR_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout/1"/>
+    <ns0:pTac_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout/1"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout"/>
+    <sbol:displayId>TetR_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout_NodeGlyph_114/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout_NodeGlyph_115/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/TetR/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/TetR_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout"/>
+    <sbol:displayId>pTet_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout_NodeGlyph_110/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout_NodeGlyph_111/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTet/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTet_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout"/>
+    <sbol:displayId>A1_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout_NodeGlyph_89/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout_NodeGlyph_90/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/A1/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/A1_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout"/>
+    <sbol:displayId>ECK120019600_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout_NodeGlyph_95/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout_NodeGlyph_96/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/ECK120019600/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/ECK120019600_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout"/>
+    <sbol:displayId>pTac_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout_NodeGlyph_180/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout_NodeGlyph_181/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/pTac/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/pTac_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout"/>
+    <sbol:displayId>LacI_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout_NodeGlyph_92/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout_NodeGlyph_93/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/LacI/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/LacI_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout"/>
+    <sbol:displayId>YFP_reporter_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:BBa_B0064_rbs_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout/1"/>
+    <ns0:L3S2P21_terminator_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout/1"/>
+    <ns0:RiboJ_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout/1"/>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_153/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_154/1">
+        <ns0:displayId>RiboJ_1</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_152/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_157/1">
+        <ns0:displayId>L3S2P21_terminator_4</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_158/1">
+        <ns0:displayId>Ribozyme_scar_5</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_155/1">
+        <ns0:displayId>YFP_2</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_156/1">
+        <ns0:displayId>RBS_CDS_scar_3</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_159/1">
+        <ns0:displayId>RBS_upstream_scar_6</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout_NodeGlyph_160/1">
+        <ns0:displayId>BBa_B0064_rbs_7</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP_reporter/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_reporter_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+    <ns0:RBS_CDS_scar_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout/1"/>
+    <ns0:RBS_upstream_scar_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout/1"/>
+    <ns0:Ribozyme_scar_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout/1"/>
+    <ns0:YFP_Reference rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout/1"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout"/>
+    <sbol:displayId>BBa_B0064_rbs_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout_NodeGlyph_165/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout_NodeGlyph_166/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/BBa_B0064_rbs/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/BBa_B0064_rbs_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout"/>
+    <sbol:displayId>RiboJ_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout_NodeGlyph_171/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout_NodeGlyph_172/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RiboJ/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RiboJ_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout"/>
+    <sbol:displayId>L3S2P21_terminator_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout_NodeGlyph_167/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout_NodeGlyph_168/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/L3S2P21_terminator/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/L3S2P21_terminator_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout"/>
+    <sbol:displayId>RBS_upstream_scar_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout_NodeGlyph_161/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout_NodeGlyph_162/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_upstream_scar/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_upstream_scar_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout"/>
+    <sbol:displayId>RBS_CDS_scar_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout_NodeGlyph_173/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout_NodeGlyph_174/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/RBS_CDS_scar/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/RBS_CDS_scar_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout"/>
+    <sbol:displayId>YFP_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout_NodeGlyph_169/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout_NodeGlyph_170/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/YFP/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/YFP_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+  <ns0:Layout rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout/1">
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout"/>
+    <sbol:displayId>Ribozyme_scar_Layout</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout_NodeGlyph_163/1">
+        <ns0:displayId>container</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout/1"/>
+        <ns0:height>100.0</ns0:height>
+        <ns0:width>50.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:nodeGlyph>
+      <ns0:NodeGlyph rdf:about="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout_NodeGlyph_164/1">
+        <ns0:displayId>backbone</ns0:displayId>
+        <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout/1"/>
+        <ns0:height>0.0</ns0:height>
+        <ns0:width>0.0</ns0:width>
+        <ns0:x>0.0</ns0:x>
+        <ns0:y>0.0</ns0:y>
+      </ns0:NodeGlyph>
+    </ns0:nodeGlyph>
+    <ns0:objectRef rdf:resource="https://synbiohub.programmingbiology.org/public/Cello_Parts/Ribozyme_scar/1"/>
+    <sbh:topLevel rdf:resource="https://synbiohub.org/user/melanieng401/M4tutorial/Ribozyme_scar_Layout/1"/>
+    <sbh:ownedBy rdf:resource="https://synbiohub.org/user/melanieng401"/>
+  </ns0:Layout>
+</rdf:RDF>
